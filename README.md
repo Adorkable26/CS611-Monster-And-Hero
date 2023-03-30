@@ -90,7 +90,9 @@ Your current location is: (1, 1)
     |  M |    |  M |    |  M |    |  M |
 ----------------------------------------
 <Output:> Please enter your move: 
+	
 <Input:> d
+	
 <Output:>
 Your current location is: (2, 1)
 Name	Level	Damage	Defense	Dodge chance
