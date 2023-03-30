@@ -1,8 +1,10 @@
 # CS611-Monster-And-Hero
 <A brief description of each file and what it does>
 1. <Main.class> in this file, an instance of Game is created, this is where the initial game starts.
+	
 2. <Game.class> encapsulates all the methods and operations of this game, the Main.class only need to
 	contain few lines of the codes that the whole game could run.
+	
 3. <Role.class> is the super class of the <Monster.class> and <Hero.classes>, the two classes are 
 	generated from this class because there are something in common, so I encapsulated 
 	some members and methods in this class for them to use.
